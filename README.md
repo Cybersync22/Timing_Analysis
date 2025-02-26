@@ -2,6 +2,13 @@
 
 ## Timing Analysis using GNN for RTL Complexity Prediction
 
+#### PROBLEM STATEMENT
+AI algorithm to predict combinational complexity/depth of signals to quickly identify timing violations.
+
+Timing analysis is a crucial step in the design of any complex IP/SoC. However, timing analysis reports are generated after synthesis is complete, which is a very time consuming process. This leads to overall delays in the project execution time as timing violations can require architectural refactoring.
+
+Creating an AI algorithm to predict combinational logic depth of signals in behavioural RTL can greatly speed up this process.
+
 #### SOLUTION SUMMARY
 A Graph Neural Network (GNN)-based Timing Prediction Tool that extracts RTL netlist features and predicts the logic depth of a circuit.
 
