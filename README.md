@@ -26,12 +26,12 @@ Timing_Analysis/
 
 
 #### INSTALLATION AND SETUP
-Follow these steps to set up and run the Timing Analysis project on your local machine.
-Prerequisites:
-Python 3.8+ 
-Git 
-pip (Usually included with Python)
-virtualenv (Recommended)
+Follow these steps to set up and run the Timing Analysis project on your local machine.<br>
+Prerequisites:<br>
+Python 3.8+  
+Git  
+pip (Usually included with Python)  
+virtualenv (Recommended)  
 
 **Step 1: Clone the Repository** <br>  
 git clone https://github.com/your-username/Timing_Analysis.git
