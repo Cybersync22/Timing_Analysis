@@ -33,15 +33,15 @@ Git
 pip (Usually included with Python)
 virtualenv (Recommended)
 
-**Step 1: Clone the Repository**
+**Step 1: Clone the Repository** <br>  
 git clone https://github.com/your-username/Timing_Analysis.git
 cd Timing_Analysis
 
-**Step 2: Set Up a Virtual Environment (Optional but Recommended)**
+**Step 2: Set Up a Virtual Environment (Optional but Recommended)** <br>
 On Windows (Command Prompt)
 python -m venv venv
 venv\Scripts\activate
-
+<br>
 On macOS/Linux
 python3 -m venv venv
 source venv/bin/activate
