@@ -55,4 +55,7 @@ python Train.py
 **Step 5: Run Prediction on a Netlist**
 python Predict_Timing.py
 
+## SAMPLE OUTPUT
+![image](https://github.com/user-attachments/assets/408839e8-c47b-45ed-955f-4ed5a5788dce)
+
 
